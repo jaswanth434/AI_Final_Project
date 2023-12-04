@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>t12_black_eagle_l3_jpg.rf.4b57c24cc3ea84eebe7d9c9089f85aa2.jpg</filename>
+	<path>t12_black_eagle_l3_jpg.rf.4b57c24cc3ea84eebe7d9c9089f85aa2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

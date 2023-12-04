@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>leclerc_l3_jpg.rf.cbf099a5cf329f93abc5eb88e28cf148.jpg</filename>
+	<path>leclerc_l3_jpg.rf.cbf099a5cf329f93abc5eb88e28cf148.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

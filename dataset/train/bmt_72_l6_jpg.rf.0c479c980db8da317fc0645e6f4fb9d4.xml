@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>bmt_72_l6_jpg.rf.0c479c980db8da317fc0645e6f4fb9d4.jpg</filename>
+	<path>bmt_72_l6_jpg.rf.0c479c980db8da317fc0645e6f4fb9d4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

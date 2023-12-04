@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>tk_x_l7_jpg.rf.600095cffd07a2b92ef9ec8c8f192c7f.jpg</filename>
+	<path>tk_x_l7_jpg.rf.600095cffd07a2b92ef9ec8c8f192c7f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>428</width>
+		<height>307</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

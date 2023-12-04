@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>zbd_2000_light_tank_l2_jpg.rf.7bdad99b7556240e5c18b8907c4f3de2.jpg</filename>
+	<path>zbd_2000_light_tank_l2_jpg.rf.7bdad99b7556240e5c18b8907c4f3de2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>343</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

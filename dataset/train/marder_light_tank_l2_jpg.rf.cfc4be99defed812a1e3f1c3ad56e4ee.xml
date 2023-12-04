@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>marder_light_tank_l2_jpg.rf.cfc4be99defed812a1e3f1c3ad56e4ee.jpg</filename>
+	<path>marder_light_tank_l2_jpg.rf.cfc4be99defed812a1e3f1c3ad56e4ee.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>olifant_mk1b_l1_jpg.rf.596cde3bb877c1cca02c9d2bc0c5bd9d.jpg</filename>
+	<path>olifant_mk1b_l1_jpg.rf.596cde3bb877c1cca02c9d2bc0c5bd9d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

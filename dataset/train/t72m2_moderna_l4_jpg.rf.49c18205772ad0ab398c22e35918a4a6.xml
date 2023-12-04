@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>t72m2_moderna_l4_jpg.rf.49c18205772ad0ab398c22e35918a4a6.jpg</filename>
+	<path>t72m2_moderna_l4_jpg.rf.49c18205772ad0ab398c22e35918a4a6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>al_khalid_l3_jpg.rf.66ad70ebbbb4de79b7973d7821a99925.jpg</filename>
+	<path>al_khalid_l3_jpg.rf.66ad70ebbbb4de79b7973d7821a99925.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

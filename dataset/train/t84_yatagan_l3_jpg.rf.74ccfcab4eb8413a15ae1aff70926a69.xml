@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>t84_yatagan_l3_jpg.rf.74ccfcab4eb8413a15ae1aff70926a69.jpg</filename>
+	<path>t84_yatagan_l3_jpg.rf.74ccfcab4eb8413a15ae1aff70926a69.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

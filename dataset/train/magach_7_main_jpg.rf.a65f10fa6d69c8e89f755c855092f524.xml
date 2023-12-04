@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>magach_7_main_jpg.rf.a65f10fa6d69c8e89f755c855092f524.jpg</filename>
+	<path>magach_7_main_jpg.rf.a65f10fa6d69c8e89f755c855092f524.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

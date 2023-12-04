@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>armata_l8_jpg.rf.77072c7aa845cfc4ebb3f9d536018e2f.jpg</filename>
+	<path>armata_l8_jpg.rf.77072c7aa845cfc4ebb3f9d536018e2f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

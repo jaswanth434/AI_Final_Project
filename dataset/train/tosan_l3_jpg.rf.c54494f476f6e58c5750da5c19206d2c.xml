@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>tosan_l3_jpg.rf.c54494f476f6e58c5750da5c19206d2c.jpg</filename>
+	<path>tosan_l3_jpg.rf.c54494f476f6e58c5750da5c19206d2c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

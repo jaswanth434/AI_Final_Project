@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>merkava_mk1_l7_jpg.rf.4b571d24d34eda1115286e588dc13d88.jpg</filename>
+	<path>merkava_mk1_l7_jpg.rf.4b571d24d34eda1115286e588dc13d88.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

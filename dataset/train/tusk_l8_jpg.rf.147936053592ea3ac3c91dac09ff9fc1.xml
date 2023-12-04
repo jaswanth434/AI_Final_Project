@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>tusk_l8_jpg.rf.147936053592ea3ac3c91dac09ff9fc1.jpg</filename>
+	<path>tusk_l8_jpg.rf.147936053592ea3ac3c91dac09ff9fc1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

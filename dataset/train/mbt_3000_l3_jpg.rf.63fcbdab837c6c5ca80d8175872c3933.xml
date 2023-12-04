@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>mbt_3000_l3_jpg.rf.63fcbdab837c6c5ca80d8175872c3933.jpg</filename>
+	<path>mbt_3000_l3_jpg.rf.63fcbdab837c6c5ca80d8175872c3933.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

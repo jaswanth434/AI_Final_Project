@@ -1,0 +1,15 @@
+lib*
+*.voc.zip
+/dataset-old
+dataset/test
+dataset/valid
+model_1.py
+r.py
+t.py
+temp-backup.py
+model.py
+battle-tank-detector-1.h5
+battle-tank-detector-2.h5
+battle-tank-detector-3.h5
+battle-tank-detector-4.h5
+battle-tank-detector-5.h5

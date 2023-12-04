@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>altay_l7_jpg.rf.bd7ffc9c76a567bd083616182970ac7e.jpg</filename>
+	<path>altay_l7_jpg.rf.bd7ffc9c76a567bd083616182970ac7e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

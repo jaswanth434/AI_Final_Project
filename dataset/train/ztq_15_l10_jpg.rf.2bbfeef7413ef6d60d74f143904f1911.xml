@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>ztq_15_l10_jpg.rf.2bbfeef7413ef6d60d74f143904f1911.jpg</filename>
+	<path>ztq_15_l10_jpg.rf.2bbfeef7413ef6d60d74f143904f1911.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

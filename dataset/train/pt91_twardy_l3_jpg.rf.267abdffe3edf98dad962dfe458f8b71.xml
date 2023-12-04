@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>pt91_twardy_l3_jpg.rf.267abdffe3edf98dad962dfe458f8b71.jpg</filename>
+	<path>pt91_twardy_l3_jpg.rf.267abdffe3edf98dad962dfe458f8b71.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>343</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

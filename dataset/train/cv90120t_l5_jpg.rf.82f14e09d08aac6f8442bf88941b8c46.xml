@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>cv90120t_l5_jpg.rf.82f14e09d08aac6f8442bf88941b8c46.jpg</filename>
+	<path>cv90120t_l5_jpg.rf.82f14e09d08aac6f8442bf88941b8c46.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>342</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

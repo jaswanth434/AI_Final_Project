@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>m551_sheridan_l5_jpg.rf.549dd089044839633d3e519b8ec8074c.jpg</filename>
+	<path>m551_sheridan_l5_jpg.rf.549dd089044839633d3e519b8ec8074c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

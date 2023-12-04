@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>t64bm_bulat_l4_jpg.rf.0cdd53ca275aa46954a8cbf2e4dc3f51.jpg</filename>
+	<path>t64bm_bulat_l4_jpg.rf.0cdd53ca275aa46954a8cbf2e4dc3f51.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

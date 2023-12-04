@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>challenger_2_l7_jpg.rf.2eef9b2b84e986b15c3981de7f1426ec.jpg</filename>
+	<path>challenger_2_l7_jpg.rf.2eef9b2b84e986b15c3981de7f1426ec.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>206</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

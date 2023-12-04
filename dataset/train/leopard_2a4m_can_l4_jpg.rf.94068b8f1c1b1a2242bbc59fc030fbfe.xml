@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>leopard_2a4m_can_l4_jpg.rf.94068b8f1c1b1a2242bbc59fc030fbfe.jpg</filename>
+	<path>leopard_2a4m_can_l4_jpg.rf.94068b8f1c1b1a2242bbc59fc030fbfe.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

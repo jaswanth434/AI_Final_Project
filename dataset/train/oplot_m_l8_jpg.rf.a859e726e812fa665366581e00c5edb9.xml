@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>oplot_m_l8_jpg.rf.a859e726e812fa665366581e00c5edb9.jpg</filename>
+	<path>oplot_m_l8_jpg.rf.a859e726e812fa665366581e00c5edb9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>zulfiqar_1_l1_jpg.rf.eb7abe53e6d035ee6cf2bbda652f9088.jpg</filename>
+	<path>zulfiqar_1_l1_jpg.rf.eb7abe53e6d035ee6cf2bbda652f9088.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>155</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

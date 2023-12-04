@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>karrar_l4_jpg.rf.2a95ec75e9deba2bba69e368067bdaa9.jpg</filename>
+	<path>karrar_l4_jpg.rf.2a95ec75e9deba2bba69e368067bdaa9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

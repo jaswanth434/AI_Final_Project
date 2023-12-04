@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>m60_patton_l8_jpg.rf.140f27faee8f9d90bef50f339a624fd7.jpg</filename>
+	<path>m60_patton_l8_jpg.rf.140f27faee8f9d90bef50f339a624fd7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

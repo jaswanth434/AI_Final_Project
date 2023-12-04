@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>m1a2_abrams_l3_jpg.rf.f409cf5e4a8239eeab91185499fa4217.jpg</filename>
+	<path>m1a2_abrams_l3_jpg.rf.f409cf5e4a8239eeab91185499fa4217.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

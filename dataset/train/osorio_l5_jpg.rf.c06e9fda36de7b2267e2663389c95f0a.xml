@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>osorio_l5_jpg.rf.c06e9fda36de7b2267e2663389c95f0a.jpg</filename>
+	<path>osorio_l5_jpg.rf.c06e9fda36de7b2267e2663389c95f0a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>chieftain_l3_jpg.rf.f4473c366820cb6f7015135e57bc5fe9.jpg</filename>
+	<path>chieftain_l3_jpg.rf.f4473c366820cb6f7015135e57bc5fe9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

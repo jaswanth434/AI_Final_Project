@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>unidentified_north_korean_mbt_l4_jpg.rf.276df07b82bb1c8b775485d0edf9cd14.jpg</filename>
+	<path>unidentified_north_korean_mbt_l4_jpg.rf.276df07b82bb1c8b775485d0edf9cd14.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
